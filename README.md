@@ -2,7 +2,7 @@
 #IICMR MAD LABS
 WORD FILES OF ALL PROGRAMS
 
-1.Write an android code to create basic Calculator app.
+1.Write an android code to create basic Calculator app. </br><br>
 2.Create a rating bar application, where user will rate a product. Display the rating using Toast.
 3.Create an app to accept package delivery method from given radio button options Same day, Next day, Pickup. On Clicking of any of the radio button, display the selected option using Toast.
 4.Write an application using Checkbox, to accept toppings on an ice-cream. Give any 5 options. After clicking on Submit button display the toppings selected.
