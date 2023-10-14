@@ -1,7 +1,6 @@
 # AndroidLabs </br></br>
 #IICMR MAD LABS </br></br>
 WORD FILES OF ALL PROGRAMS </br></br></br>
-
 1.Write an android code to create basic Calculator app.<br>
 2.Create a rating bar application, where user will rate a product. Display the rating using Toast. <br>
 3.Create an app to accept package delivery method from given radio button options Same day, Next day, Pickup. On Clicking of any of the radio button, display the selected option using Toast. <br>
